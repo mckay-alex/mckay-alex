@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Alex, a cs student passionate about building things. 
+
 <!--
 **mckay-alex/mckay-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
